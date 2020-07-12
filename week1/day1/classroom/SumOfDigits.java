@@ -29,7 +29,7 @@ public class SumOfDigits {
 
 		// Within loop: get the remainder when done by 10 -> Tip: use mod
 
-			// Print the remainder to confirm
+			
 	
 			// Within loop: add that remainder to the sum
 	
