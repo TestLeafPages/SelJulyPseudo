@@ -8,9 +8,17 @@ public class VerifyTrainNamesAreUnique {
 		
 //		Click the 'sort on date' checkbox
 		
-//		clear and type in the from station text field
+//		clear the existing text from station text field
 		
-//		clear and type in the to station text field
+//		type "ms"in the from station text field
+		
+//		tab in the from station text field
+		
+//		clear the existing text in the to station text field
+		
+//		type "mdu" in the to station text field
+		
+//		tab in the to station text field
 		
 //		Add a java sleep for 2 seconds
 		
