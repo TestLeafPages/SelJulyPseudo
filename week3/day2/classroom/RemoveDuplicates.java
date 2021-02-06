@@ -1,7 +1,7 @@
 package week3.day2.classroom;
 
 // Input: "PayPal India"
-// Output:ylIndi
+// Output:PaylIndi
 
 public class RemoveDuplicates {
 
